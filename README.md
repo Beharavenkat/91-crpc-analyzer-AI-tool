@@ -7,36 +7,58 @@ This Project is Built by My Team in which Jayanth and Kishore Performed Cruical 
 <img width="1920" height="1080" alt="Screenshot (88)" src="https://github.com/user-attachments/assets/e21b4184-f57f-49cb-8de7-c191fecdf59f" />
 <img width="1920" height="1080" alt="Screenshot (89)" src="https://github.com/user-attachments/assets/088df649-d30f-4e84-a1a1-05f9d0ce0aa7" />
 
-
-
 ## 🚀 Features
 
-- **Case Management**: Complete case lifecycle management with suspect tracking
-- **Message Classification**: AI-powered analysis of communications and evidence
-- **Suspect Profiling**: Advanced suspect analysis and risk assessment
-- **Analytics Dashboard**: Comprehensive insights and statistics
-- **Email Workflow**: Automated email processing and notifications
-- **SLA Monitoring**: Service level agreement tracking and compliance
-- **Decoy Chat**: Simulated communication environment for investigations
-- **Form Generator**: Dynamic form creation for data collection
-- **File Analysis**: Advanced file upload and content analysis
+- **Case Management:** End-to-end case lifecycle management with suspect tracking  
+- **Message Classification:** AI-powered analysis of chats, emails, and digital evidence  
+- **Suspect Profiling:** Automated suspect insights with risk scoring  
+- **Analytics Dashboard:** Real-time statistics and visual insights  
+- **Email Workflow:** Automated email ingestion, routing, and notifications  
+- **SLA Monitoring:** Time-based tracking with escalation workflows  
+- **Decoy Chat:** Controlled chat environment for investigative simulations  
+- **Form Generator:** Dynamic form creation for data collection  
+- **File Analysis:** AI-driven document & media analysis  
+- **WhatsApp Bot:** Investigation assistant integrated using N8n workflows  
+
+---
 
 ## 🛠️ Technology Stack
 
-- **Framework**: Next.js 15.3.4 with TypeScript
-- **UI Components**: Radix UI, Tailwind CSS
-- **Database**: Supabase (PostgreSQL)
-- **Charts**: Chart.js, Recharts
-- **Authentication**: Supabase Auth
-- **State Management**: React Hooks
-- **File Processing**: Custom file analysis pipeline
-- **AI Integration**: Custom AI analysis endpoints
+### **Frontend**
+- Next.js **15.3.4** (TypeScript)  
+- Radix UI, Tailwind CSS  
+- Chart.js, Recharts  
+
+### **Backend & Automation**
+- **N8n** (workflow engine, automations, backend logic)  
+- Custom N8n workflows for:
+  - Case processing  
+  - Email pipeline  
+  - SLA tracking  
+  - Message classification  
+  - WhatsApp bot integration  
+  - AI analysis pipeline  
+
+### **Database**
+- Supabase (PostgreSQL)  
+- Supabase Auth for authentication  
+
+### **AI Integration**
+- Custom AI endpoints triggered via N8n  
+- Document analysis, classification, and profiling pipelines  
+
+### **State & File Handling**
+- React Hooks for state management  
+- Custom file analysis flow (frontend + N8n backend)  
+
+---
 
 ## 📋 Prerequisites
 
-- Node.js 18+ 
-- npm or yarn
-- Supabase account
+- Node.js **18+**  
+- npm or yarn  
+- Supabase account  
+- N8n instance (local / cloud)  
 - Git
 
 ## ⚙️ Installation

@@ -138,6 +138,11 @@ For support and questions:
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+## Working
+
+It automatically detects the scammers and chat like a person and gathers information and forwards to the Law Enforcement we can track that case in our webpage. 
+
 ![bot working2](https://github.com/user-attachments/assets/18eb34f0-82ef-433d-89fc-5a1ed6f19c84)
 ![bot Working1](https://github.com/user-attachments/assets/444aa07b-734b-456f-90ba-4990e8922945)
 

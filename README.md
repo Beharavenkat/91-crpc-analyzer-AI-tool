@@ -3,8 +3,9 @@
 A comprehensive AI-powered system for analyzing and processing criminal cases under Section 91 of the Code of Criminal Procedure (CrPC). This Next.js application provides law enforcement agencies with tools for case management, message classification, suspect analysis, and automated report generation.
 
 This Project is Built by My Team in which Jayanth and Kishore Performed Cruical part in Api Integration and other implementations.
-<img width="1920" height="1080" alt="Screenshot (86)" src="https://github.com/user-attachments/assets/a49ec165-844d-47b9-b368-eb406e06759a" />
-<img width="1920" height="1080" alt="Screenshot (87)" src="https://github.com/user-attachments/assets/76cc45ad-f6d4-4cef-97b5-46ec839ee0fe" />
+
+<img width="1920" height="1080" alt="Screenshot (88)" src="https://github.com/user-attachments/assets/e21b4184-f57f-49cb-8de7-c191fecdf59f" />
+<img width="1920" height="1080" alt="Screenshot (89)" src="https://github.com/user-attachments/assets/088df649-d30f-4e84-a1a1-05f9d0ce0aa7" />
 
 
 
